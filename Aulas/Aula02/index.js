@@ -77,3 +77,4 @@ function main() {
     escolherOpcao(opcao);
   }
 }
+ main()
